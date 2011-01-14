@@ -1,0 +1,102 @@
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-01-10 21:47:52) [GET]
+
+ActionController::RoutingError (No route matches "/users" with {:method=>:get}):
+  C:/Dev/SW/Languages/ruby-1.8.7/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  C:/Dev/SW/Languages/ruby-1.8.7/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  C:/Dev/SW/Languages/ruby-1.8.7/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  C:/Dev/SW/Languages/ruby-1.8.7/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  C:/Dev/SW/Languages/ruby-1.8.7/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  C:/Dev/SW/Languages/ruby-1.8.7/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  C:/Dev/SW/Languages/ruby-1.8.7/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  C:/Dev/SW/Languages/ruby-1.8.7/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  C:/Dev/SW/Languages/ruby-1.8.7/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  C:/Dev/SW/Languages/ruby-1.8.7/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-01-10 21:48:19) [GET]
+
+ActionController::RoutingError (No route matches "/users" with {:method=>:get}):
+  C:/Dev/SW/Languages/ruby-1.8.7/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  C:/Dev/SW/Languages/ruby-1.8.7/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  C:/Dev/SW/Languages/ruby-1.8.7/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  C:/Dev/SW/Languages/ruby-1.8.7/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  C:/Dev/SW/Languages/ruby-1.8.7/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  C:/Dev/SW/Languages/ruby-1.8.7/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  C:/Dev/SW/Languages/ruby-1.8.7/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  C:/Dev/SW/Languages/ruby-1.8.7/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  C:/Dev/SW/Languages/ruby-1.8.7/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  C:/Dev/SW/Languages/ruby-1.8.7/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-01-10 21:48:24) [GET]
+
+ActionController::RoutingError (No route matches "/users/1" with {:method=>:get}):
+  C:/Dev/SW/Languages/ruby-1.8.7/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  C:/Dev/SW/Languages/ruby-1.8.7/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  C:/Dev/SW/Languages/ruby-1.8.7/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  C:/Dev/SW/Languages/ruby-1.8.7/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  C:/Dev/SW/Languages/ruby-1.8.7/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  C:/Dev/SW/Languages/ruby-1.8.7/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  C:/Dev/SW/Languages/ruby-1.8.7/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  C:/Dev/SW/Languages/ruby-1.8.7/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  C:/Dev/SW/Languages/ruby-1.8.7/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  C:/Dev/SW/Languages/ruby-1.8.7/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-01-10 21:48:33) [GET]
+
+ActionController::RoutingError (No route matches "/user" with {:method=>:get}):
+  C:/Dev/SW/Languages/ruby-1.8.7/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  C:/Dev/SW/Languages/ruby-1.8.7/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  C:/Dev/SW/Languages/ruby-1.8.7/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  C:/Dev/SW/Languages/ruby-1.8.7/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  C:/Dev/SW/Languages/ruby-1.8.7/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  C:/Dev/SW/Languages/ruby-1.8.7/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  C:/Dev/SW/Languages/ruby-1.8.7/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  C:/Dev/SW/Languages/ruby-1.8.7/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  C:/Dev/SW/Languages/ruby-1.8.7/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  C:/Dev/SW/Languages/ruby-1.8.7/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-01-10 21:48:37) [GET]
+
+ActionController::RoutingError (No route matches "/users" with {:method=>:get}):
+  C:/Dev/SW/Languages/ruby-1.8.7/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  C:/Dev/SW/Languages/ruby-1.8.7/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  C:/Dev/SW/Languages/ruby-1.8.7/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  C:/Dev/SW/Languages/ruby-1.8.7/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  C:/Dev/SW/Languages/ruby-1.8.7/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  C:/Dev/SW/Languages/ruby-1.8.7/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  C:/Dev/SW/Languages/ruby-1.8.7/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  C:/Dev/SW/Languages/ruby-1.8.7/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  C:/Dev/SW/Languages/ruby-1.8.7/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  C:/Dev/SW/Languages/ruby-1.8.7/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-01-10 21:49:06) [GET]
+
+ActionController::RoutingError (No route matches "/users" with {:method=>:get}):
+  C:/Dev/SW/Languages/ruby-1.8.7/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  C:/Dev/SW/Languages/ruby-1.8.7/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  C:/Dev/SW/Languages/ruby-1.8.7/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  C:/Dev/SW/Languages/ruby-1.8.7/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  C:/Dev/SW/Languages/ruby-1.8.7/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  C:/Dev/SW/Languages/ruby-1.8.7/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  C:/Dev/SW/Languages/ruby-1.8.7/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  C:/Dev/SW/Languages/ruby-1.8.7/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  C:/Dev/SW/Languages/ruby-1.8.7/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  C:/Dev/SW/Languages/ruby-1.8.7/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendering rescues/layout (not_found)
